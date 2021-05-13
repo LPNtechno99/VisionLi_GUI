@@ -1,0 +1,41 @@
+D:\XLA\VisionLi\VisionLi\GUI-WPF\bin\Debug\GUI-WPF.exe.config
+D:\XLA\VisionLi\VisionLi\GUI-WPF\bin\Debug\GUI-WPF.exe
+D:\XLA\VisionLi\VisionLi\GUI-WPF\bin\Debug\GUI-WPF.pdb
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\MainWindow.g.cs
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\App.g.cs
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF_MarkupCompile.cache
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF_MarkupCompile.lref
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\MainWindow.baml
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.g.resources
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI_WPF.Properties.Resources.resources
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csproj.GenerateResource.cache
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csproj.CoreCompileInputs.cache
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.exe
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.pdb
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csprojAssemblyReference.cache
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\UCTrackBar\UCThreshold.g.cs
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\UCTrackBar\UCThreshold.baml
+D:\XLA\VisionLi\VisionLi\bin\GUI-WPF.exe.config
+D:\XLA\VisionLi\VisionLi\bin\GUI-WPF.exe
+D:\XLA\VisionLi\VisionLi\bin\GUI-WPF.pdb
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csproj.CopyComplete
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\bin\GUI-WPF.exe.config
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\bin\GUI-WPF.exe
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\bin\GUI-WPF.pdb
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csprojAssemblyReference.cache
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\MainWindow.g.cs
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\UCTrackBar\UCThreshold.g.cs
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\App.g.cs
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF_MarkupCompile.cache
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF_MarkupCompile.lref
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\MainWindow.baml
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\UCTrackBar\UCThreshold.baml
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.g.resources
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI_WPF.Properties.Resources.resources
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csproj.GenerateResource.cache
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csproj.CoreCompileInputs.cache
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.csproj.CopyComplete
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.exe
+D:\Local Disk F_742018351\XLA\VisionLi\VisionLi\GUI-WPF\obj\Debug\GUI-WPF.pdb

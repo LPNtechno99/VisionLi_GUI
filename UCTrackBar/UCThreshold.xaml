@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="GUI_WPF.UCTrackBar.UCThreshold"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GUI_WPF.UCTrackBar"
+             mc:Ignorable="d" 
+             d:DesignHeight="110" d:DesignWidth="300" Background="AliceBlue" Loaded="UserControl_Loaded">
+    <Border BorderBrush="#FF2B2A2A" BorderThickness="0.8" >
+        <Grid Margin="5">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="3*"/>
+                <RowDefinition Height="1.8*"/>
+            </Grid.RowDefinitions>
+            <StackPanel VerticalAlignment="Center">
+                <DockPanel VerticalAlignment="Center" Margin="5">
+                    <TextBlock Text="Threshold:" FontSize="12" FontWeight="Bold" 
+                               VerticalAlignment="Center" DockPanel.Dock="Left" />
+                    <TextBox VerticalContentAlignment="Center" HorizontalContentAlignment="Center" 
+                             DockPanel.Dock="Right" FontSize="12" FontWeight="Bold" Width="40"
+                             Name="txtValue" Text="{Binding Path=Value, ElementName=sldThreshold}"/>
+                    <Slider TickPlacement="BottomRight" IsSnapToTickEnabled="True" Maximum="255" Minimum="0" 
+                            x:Name="sldThreshold" ValueChanged="sldThreshold_ValueChanged" Value="100" Margin="5 0 5 0" PreviewMouseUp="sldThreshold_PreviewMouseUp"
+                            />
+                </DockPanel>
+            </StackPanel>
+            <DockPanel Grid.Row="1" VerticalAlignment="Center" Margin="5">
+                <Button DockPanel.Dock="Right" Width="100" HorizontalAlignment="Right" 
+                        Content="Apply Image" FontSize="10" FontWeight="Bold" 
+                        Name="btnApplyImage" VerticalContentAlignment="Center"
+                        Click="btnApplyImage_Click">
+                </Button>
+            </DockPanel>
+        </Grid>
+    </Border>
+</UserControl>
